@@ -146,7 +146,7 @@ pair<int, int> binDivision(int binNum1, int binNum2, bool print) {
              << binQuotient;
         cout << "\n\nThe div (quotient) of " << ogbinNum1 << " / " << binNum2
              << " in binary is " << binQuotient << endl;
-        cout << "The mod (remainder) is " << remainder << endl;
+        cout << "The mod (remainder) in binary is " << remainder << endl;
     }
 
     pair<int, int> divMod(binQuotient, remainder);

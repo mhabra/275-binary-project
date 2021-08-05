@@ -5,7 +5,7 @@
 
 ## Part 1
 
-I wrote a program in C++ for this project. Check out the source code 
+I wrote a program in C++ for this project. Check out the source code [here](https://github.com/mhabra/275-binary-project/blob/main/part1.cpp).  
 Running main program with steps, with an input of 14 and 3:
 
 ~~~
@@ -164,7 +164,7 @@ Having subtracted 4 times:
 We subtracted 4 times. Thus, our binary quotient is 100
 
 The div (quotient) of 1110 / 11 in binary is 100
-The mod (remainder) is 10
+The mod (remainder) in binary is 10
 ~~~
 
 
@@ -216,3 +216,4 @@ Markoff, J. (2015, September 26). *Smaller, Faster, Cheaper, Over: The Future of
 Moore, G. E. (1965). Cramming more components onto integrated circuits. *Electronics*, *38*(8).<br><br>
 Nasar, A. A. (2016). The history of Algorithmic complexity. *The Mathematics Enthusiast*, *13*(3), 217-242.<br><br>
 Rosen, K. H. (2019). *Discrete Mathematics and its Applications*. McGraw-Hill Education.
+
